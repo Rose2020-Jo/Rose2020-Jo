@@ -1,9 +1,9 @@
-## Hi there! 👋
+## Hi my peers! 
 
 I am Rose Joëlda Lambert, a passionate developer. Here, you'll find my projects in Python, Java, C++, and much more.
 
 ### Currently Working On
-- Creating an app to bridge Arabic culture in Creole.
+- Creating an app to bridge Arabic and Creole culture.
 
 ### Currently Learning
 - React Native for mobile development.
@@ -14,8 +14,9 @@ I am Rose Joëlda Lambert, a passionate developer. Here, you'll find my projects
 - Anything that involves bridging different cultures.
 
 ### How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/rose-lambert)
-- [Twitter](https://twitter.com/rose_lambert)
+- [LinkedIn](http://www.linkedin.com/in/rose-jo%C3%ABlda-lambert-9933781a2)
+- [Twitter](https://twitter.com/JoeldaRose?t=3aN659qOuHtZxZBYWr5_EQ&s=09)
+- [Instagram](https://www.instagram.com/rosejoeldalambert?igsh=MW0yaGdpdjRyMnlmOA==)
 
 ### Fun Fact
 - I love combining technology and cultural studies to create innovative solutions.
