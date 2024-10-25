@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**Rose2020-Jo/Rose2020-Jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Rose Joëlda Lambert, a passionate developer. Here, you'll find my projects in Python, Java, C++, and much more.
 
-Here are some ideas to get you started:
+### Currently Working On
+- Creating an app to bridge Arabic culture in Creole.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- React Native for mobile development.
+- Advanced algorithms in Python.
+
+### Looking to Collaborate On
+- Open source projects related to language learning apps.
+- Anything that involves bridging different cultures.
+
+### How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/rose-lambert)
+- [Twitter](https://twitter.com/rose_lambert)
+
+### Fun Fact
+- I love combining technology and cultural studies to create innovative solutions.
+
+![Profile Photo](https://avatars.githubusercontent.com/u/71027430?v=4))
