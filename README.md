@@ -22,3 +22,20 @@ I am Rose Joëlda Lambert, a passionate developer. Here, you'll find my projects
 - I love combining technology and cultural studies to create innovative solutions.
 
 ![Profile Photo](https://avatars.githubusercontent.com/u/71027430?v=4))
+
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Java](https://img.shields.io/badge/Java-8-orange)
+![C++](https://img.shields.io/badge/C++-17-brightgreen)
+
+
+## Skills
+- Python
+- Java
+- C++
+- React Native
+
+## Achievements
+- Built a cross-cultural language app
+- Contributed to open-source projects
+
